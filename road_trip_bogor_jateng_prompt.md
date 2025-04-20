@@ -1,7 +1,7 @@
 
 # 🚗 Prompt Deep Research: Road Trip Bogor ke Jawa Tengah (3–5 Hari, 4 Orang Dewasa, Budget Rp 5–10 Juta)
 
-Saya ingin merencanakan **perjalanan wisata darat selama 3–5 hari** dari **Bogor ke berbagai kota di Jawa Tengah**, menggunakan **mobil pribadi** melalui **jalan tol Trans Jawa**, bersama **4 orang dewasa**, dengan **total budget antara Rp 5 juta hingga Rp 10 juta**.
+Saya ingin merencanakan **perjalanan wisata darat selama 3–5 hari** dari **Bogor ke berbagai kota di Jawa Tengah**, menggunakan **mobil pribadi** melalui **jalan tol Trans Jawa**, bersama **4 orang dewasa**, dengan **total budget antara Rp 5 juta hingga Rp 10 juta**. Perjalanan direncanakan sekitar akhir Mei 2025. Saya ingin mendapatkan informasi dan rekomendasi lengkap mengenai rute perjalanan, estimasi jarak dan waktu tempuh, tempat istirahat, penginapan, kuliner, dan estimasi biaya.
 
 ---
 
@@ -76,13 +76,7 @@ Dalam proses riset ini, **AI diperbolehkan menggunakan MCP server atau plugin te
 - Simulasi total untuk budget Rp 5 juta dan Rp 10 juta
 - **Data biaya dalam bentuk tabel dan file CSV**
 
-## 7. Tips Berkendara Jarak Jauh
-- Persiapan kendaraan (servis, ban, oli, dll.)
-- Rotasi sopir (jika ada)
-- Waktu terbaik untuk berangkat dan kembali
-- Tips menghindari kelelahan dan macet
-
-## 8. Navigasi & Info Real-Time
+## 7. Navigasi & Info Real-Time
 - Aplikasi bantu perjalanan: Google Maps, Waze, Travoy, dll.
 - Cara cek info tol, cuaca, dan rest area secara langsung
 
