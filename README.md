@@ -18,7 +18,7 @@ Google Map API yang dibutuhkan untuk project ini adalah :
 * Distance Matrix API
 * Routes API
 
-![GMap API](gmap_api.png)
+![GMap API](gmap-api.png)
 
 ## Cara menggunakan project ini ##
 1. Clone repository ini
