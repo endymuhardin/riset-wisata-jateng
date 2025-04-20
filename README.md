@@ -2,11 +2,23 @@
 
 Project ini dibuat untuk mencoba fitur fitur terbaru dalam melakukan riset dengan AI. Tidak hanya menggunakan AI model seperti ChatGPT, Gemini, dan lain-lain. Namun juga menggunakan MCP server untuk memperkaya hasil riset. Penjelasan lebih lanjut mengenai MCP server bisa dilihat di [blog saya](https://software.endy.muhardin.com/ai/mcp-server-gmap/).
 
+Prompt yang digunakan dalam project ini [dibuat menggunakan ChatGPT](https://chatgpt.com/share/680213b9-4d84-800a-8559-f051d200b4ff).
+
 ## MCP Server yang digunakan dalam project ini ##
 
 * [Brave Search](https://github.com/modelcontextprotocol/servers/tree/main/src/brave-search)
 * [Fetch-MCP](https://github.com/zcaceres/fetch-mcp)
 * [Google Maps MCP](https://github.com/modelcontextprotocol/servers/tree/main/src/google-maps)
+
+Google Map API yang dibutuhkan untuk project ini adalah :
+
+* Geocoding API
+* Places API
+* Directions API
+* Distance Matrix API
+* Routes API
+
+![GMap API](gmap_api.png)
 
 ## Cara menggunakan project ini ##
 1. Clone repository ini
